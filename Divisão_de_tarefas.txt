@@ -1,0 +1,14 @@
+->Relatório<-
+https://www.overleaf.com/4438923322dvzbtmbkdjdq
+Em Inglês?
+Pedro Almeida -> SPI & CAD + o que quiseres 
+			  -> o número de horas que trabalhaste 
+			  -> ver cenas no gantt
+Pedro Silva -> I2C, Testes de Memória & Misra
+			-> numero de horas que trabalhei.
+			-> ver cenas no gantt
+
+->GANTT<-
+https://docs.google.com/spreadsheets/d/1fRo6esP5J68xiKyVgAsS-uLtVxPz3g2pY1WiyufWcGo/edit?usp=sharing
+
+
